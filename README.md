@@ -1,0 +1,1 @@
+A To-Do List is a simple web application that helps users organize tasks efficiently. Users can add, manage, and delete tasks in a structured list, making it easier to track daily activities and responsibilities.
